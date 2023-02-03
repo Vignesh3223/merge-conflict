@@ -1,7 +1,12 @@
 merge - conflicts
 <<<<<<< HEAD
+
 changes
-=======
+
 
 committed
->>>>>>> dev2
+
+=======
+changes
+never let down
+>>>>>>> dev1
